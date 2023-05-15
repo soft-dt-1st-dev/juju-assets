@@ -1,5 +1,3 @@
-"# juju-assets"  
-
 # 寿樹様LINE予約受付アプリ　運用環境資産
 寿樹様LINE予約受付アプリの運用環境資産です。  
 コンテナ資産（docker-compose）、SSL証明書、bot資産（Google Apps Script）が含まれます。
