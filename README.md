@@ -20,12 +20,7 @@ www（コンテナ資産）
  │  docker-compose.yml
  │
  └─nginx
-     ├─conf.d
-     │   default.conf
-     │
-     └─ssl（SSL証明書・認証ファイル）
-         31FD0EA7CCC91872E2321B4C844EB8F1.txt
-         ca_bundle.crt
-         certificate.crt
-         private.key
+     └─conf.d
+         default.conf
+         default.conf.init
 ```
